@@ -4,8 +4,8 @@
 ### 2)'a.png' -Image to be reconstructed 
 ### 3)'b.png'- Source image you are using
 ### 4)Run textcode2.m to fill holes in the image.
-### 5)'app2.png' -The image with mask which is need to be filled.
-### 6)'app1.png' - The original image 
+### 5)'app2.png' -The image with mask which is need to be filled.The hole has to be manually selected from the first image displayed. 
+### 6)'app1.png' - The original image.The search space needs to specified mannually from the second image displayed.
 ### Here's our results
 #### Image Recoonstruction:
 ![alt text](https://github.com/Shritishma/DIP/blob/master/result_1.png "result_1.png")
